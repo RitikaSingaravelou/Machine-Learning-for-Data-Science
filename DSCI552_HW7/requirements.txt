@@ -1,0 +1,11 @@
+Packages Used
+
+Pandas 1.5.3
+Numpy 1.24.3
+Matplotlib 3.7.1
+Seaborn 0.12.2
+Scikit-learn 1.2.2
+SciPy 1.10.1
+imblearn 0.10.1
+Pip 23.2.1
+Math
